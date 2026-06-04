@@ -1,6 +1,6 @@
-# Exercise 0 -
+# Exercise 0 - Raspberry Pi Pico
 
-In this exercise, you get to familiarize yourself with ...
+In this exercise, you get to familiarize yourself with simulating different circuits
 
 ## 0. practical exercise
 
@@ -55,8 +55,8 @@ Fill in this table either by copying this into your own markdown file or copy it
 | breadboard        |             |
 | micropython       |             |
 | thonny            |             |
-|                   |             |
-|                   |             |
-|                   |             |
+| edge computing    |             |
+| GPIO              |             |
+| pins              |             |
 |                   |             |
 |                   |             |
