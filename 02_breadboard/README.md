@@ -1,5 +1,16 @@
 # Breadboard
 
+TODO: slides
+
+TODO: video slides
+
+TODO: create project 
+
+- wire up LED + resistor 
+- 
+
+TODO: video project 
+
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
