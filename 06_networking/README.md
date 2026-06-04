@@ -10,8 +10,12 @@ TODO: slides
   <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
 
-- pico -> MQTT -> storage
-- streaming data from edge to storage layer
+
+- wifi
+- protocols
+- network library
+- standard HTTP/REST vs MQTT
+
 
 Prototype:
 - connect pico to wifi
