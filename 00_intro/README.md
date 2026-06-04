@@ -1,5 +1,13 @@
 # Introduction to Edge computing
 
+- What is edge computing vs cloud computing — latency, bandwidth, cost, privacy tradeoffs
+- micropython vs python
+- what type of edge devices are there?  
+- pico as a data producer 
+- REPL
+- GPIO mental model - Pins as I/O interfaces
+- 
+
 
 TODO: video 
 
