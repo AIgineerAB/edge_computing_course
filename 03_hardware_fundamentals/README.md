@@ -5,6 +5,10 @@
 </a>
 
 
+- push button
+- puffin crossing -> IRQ and switch 
+- 
+
 
 ## Other videos 📹
 
