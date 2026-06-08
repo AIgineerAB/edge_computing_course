@@ -2,8 +2,11 @@
 
 In this section we'll learn about what breadboard is and what it can be used for. We will both go into theory and checkout a few simple examples to get started with the breadboard.
 
-**part 1**
-TODO: video slides
+**part 1 - concepts about the breadboard**
+
+<a href="https://youtu.be/JJ7RuZtdb4U" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/breadboard.png?raw=true" alt="breadboard concepts" width="600">
+</a>
 
 **part 2 - simulation and wiring LED**
 
