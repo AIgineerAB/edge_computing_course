@@ -21,14 +21,13 @@ In this section we'll learn about what breadboard is and what it can be used for
 <br>
 <br>
 
-**part 3 - traffic light example**
+**part 3 - building traffic light**
 
-TODO: video project
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/EwwEXvN3KcI" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/traffic_light.png?raw=true" alt="traffic light" width="600">
 </a>
 
+Main parts of a breadboard
 - power rails - + and - full length
 - tie points - connected in columns of 5
 - center gap - separates two sides
