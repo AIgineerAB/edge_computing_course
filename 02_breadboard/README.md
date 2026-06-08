@@ -8,10 +8,18 @@ In this section we'll learn about what breadboard is and what it can be used for
   <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/breadboard.png?raw=true" alt="breadboard concepts" width="600">
 </a>
 
+<br>
+<br>
+
 **part 2 - simulation and wiring LED**
 
-- wire up LED + resistor
--
+
+<a href="https://youtu.be/2mqAngMHM1A" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/breadboard.png?raw=true" alt="blinking LED" width="600">
+</a>
+
+<br>
+<br>
 
 **part 3 - traffic light example**
 
