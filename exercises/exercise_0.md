@@ -12,7 +12,7 @@ In this exercise we will build a circuit for doing morse code.
 &nbsp; a) Start with wokwi and build the circuit for an LED.
 
 > [!IMPORTANT]
-> don't forget resistor ≥ 330$\Omega$ between GPIO pin and the LED.
+> don't forget resistor ≥ 330Ω between GPIO pin and the LED.
 
 &nbsp; b) Now create a longer signal and a shorter signal with some time durations of your choices.
 
