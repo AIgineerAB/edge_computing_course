@@ -5,6 +5,8 @@
 </a>
 
 
+- potentiometer
+- PWM
 
 ## Other videos 📹
 
