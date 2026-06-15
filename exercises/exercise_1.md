@@ -20,6 +20,10 @@ In this exercise we will continue on the warning system which we [built here](ht
 Create a morse code project similar to exercise0 task 0 but using PWM and dimming instead, where one signal is one duty cycle and the other is another duty cycle. 
 
 
+## 2. Dimmer with flashy
+
+Make a dimmer that also has a button. Click the button and the LED will blink slowly, click it again and it will blink faster and then click again and it will be just on. The dimmer should work dimming the LED.
+
 
 ## 3. Theory questions
 
