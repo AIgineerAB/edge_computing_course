@@ -15,9 +15,11 @@ In this exercise we will continue on the warning system which we [built here](ht
 
 &nbsp; c) Log both the internal temperature and the external temperature
 
-## 1.
+## 1. Morse code with LED
 
-&nbsp; a)
+Create a morse code project similar to exercise0 task 0 but using PWM and dimming instead, where one signal is one duty cycle and the other is another duty cycle. 
+
+
 
 ## 3. Theory questions
 
