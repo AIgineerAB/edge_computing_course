@@ -14,14 +14,11 @@ TODO: video
 
 **Part 3 - light dimmer**
 
-<a href="https://youtu.be/Ds4uM0Ya4nM" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/pwm.png?raw=true" alt="pulse width modulation" width="600">
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/pwm.png?raw=true" alt="LED dimmer" width="600">
 </a>
 
 
-
-- potentiometer
-- PWM
 
 ## Other videos 📹
 
