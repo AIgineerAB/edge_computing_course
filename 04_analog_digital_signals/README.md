@@ -3,7 +3,10 @@
 
 **Part 1 - concepts of analog and digital signals**
 
-TODO: video
+<a href="https://youtu.be/rRUvVsTb8sY" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/signals.png?raw=true" alt="analog and digital signals" width="600">
+</a>
+
 
 **Part 2 - pulse width modulation (PWM)**
 
