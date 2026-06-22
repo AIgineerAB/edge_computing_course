@@ -12,6 +12,13 @@ TODO: slides
   <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/internal_temp_sensor.png?raw=true" alt="internal temperature sensor" width="600">
 </a>
 
+
+<a href="https://youtu.be/qysM3cSsdMA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/dht11.png?raw=true" alt="internal temperature sensor" width="600">
+</a>
+
+
+
 - Wire and read temperature sensor 
 - Wire and read humidity sensor 
 - print out structured readings to REPL
