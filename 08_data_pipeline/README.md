@@ -10,16 +10,12 @@ TODO: slides
   <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
 
-- pico -> MQTT -> storage
-- streaming data from edge to storage layer
 
-Prototype:
-- build pipeline 
-  - pico sensor -> mqtt -> python consumer -> influxdb
-  - verify data landing into influxdb
+## Setup
 
+Download [umqtt simple and robust](https://github.com/micropython/micropython-lib/tree/master/micropython)
 
-influxdb -> 
+You just need robust.py and simple.py but place these under a folder called umqtt, which you put into your project folder and then upload to pico through micropico.
 
 ## Other videos 📹
 
