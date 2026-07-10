@@ -1,0 +1,33 @@
+services:
+  mosquitto:
+    container_name: mosquitto
+    image: eclipse-mosquitto
+    ports:
+      - "1883:1883"
+  
+  consumer:
+    container_name: consumer
+    build:
+      context: .
+      dockerfile: dockerfiles/consumer.dockerfile
+    env_file:
+      - .env
+    depends_on:
+      - timescaledb
+      - mosquitto
+
+  timescaledb:
+    image: timescale/timescaledb:latest-pg18
+    container_name: timescaledb
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      - "5432:5432"
+    volumes:
+      - timescale_data:/var/lib/postgresql
+
+
+volumes:
+  timescale_data:
