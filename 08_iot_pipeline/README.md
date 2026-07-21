@@ -29,8 +29,8 @@
 
 **Part 4 - Grafana visualization**
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/iot_pipeline_4.png?raw=true" alt="iot pipeline part 3" width="600">
+<a href="https://youtu.be/3dlqfR7oW8A" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/grafana.png?raw=true" alt="iot pipeline part 3" width="600">
 </a>
 
 
