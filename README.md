@@ -1,10 +1,20 @@
-# COURSE_NAME
+# Edge computing course
 
 In this course, you'll dive into: ...
+
+- edge computing
+- hardware
+- micropython
+- raspberry pi pico
+- networking with pico
+- building an IoT pipeline
 
 For this you will be using the following tools:
 
 Prerequisites for this course are:
+
+- python fundamentals
+- docker
 
 | **Week** | **Content**                                       | **Lectures** | **Exercise** |
 | -------- | ------------------------------------------------- | ------------ | ------------ |
