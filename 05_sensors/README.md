@@ -1,10 +1,13 @@
 # Sensors to sense the physical world
 
-TODO: video 
-
-TODO: prototype 
+**part 1 - sensors**
 
 TODO: slides
+TODO: video
+
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/.png?raw=true" alt="internal temperature sensor" width="600">
+</a>
 
 **part 2 - building a temperature warning system with internal temperature sensor**
 
@@ -12,6 +15,10 @@ TODO: slides
   <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/internal_temp_sensor.png?raw=true" alt="internal temperature sensor" width="600">
 </a>
 
+<br>
+<br>
+
+**part 3 - dht11 temperature and humidity sensor**
 
 <a href="https://youtu.be/qysM3cSsdMA" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/dht11.png?raw=true" alt="internal temperature sensor" width="600">
