@@ -19,6 +19,9 @@
 </a>
 
 
+Resistor calculator 
+- [calculate resistance on resistor with color band](https://www.calculator.net/resistor-calculator.html)
+
 ## Other videos 📹
 
 ## Read more 👓
