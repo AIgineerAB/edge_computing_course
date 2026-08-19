@@ -23,7 +23,25 @@ Create a morse code project similar to exercise0 task 0 but using PWM and dimmin
 
 Make a dimmer that also has a button. Click the button and the LED will blink slowly, click it again and it will blink faster and then click again and it will be just on. The dimmer should work dimming the LED.
 
-## 3. Theory questions
+## 3. Playing with light
+
+Use a photosensor and 2 LEDs. It should have three states
+
+- bright -> no lights on
+- mid-dark -> one light on
+- dark -> two lights on
+
+What is bright, mid-dark and dark is up for you to decide. Play around with a cloth or something similar to cover the lights.
+
+## 4. Playing with sound
+
+Use a sound sensor and 3 LEDs. The higher the sound, the more lights are turned on. Try making more sound to turn them on, but please do not disturb your friends or neighbours too much.
+
+## 5. Tilting
+
+Use a tilt switch to turn on 3 LEDs when you are tilting the board.
+
+## 6. Theory questions
 
 &nbsp; a) How do you create a fake analog signal and what is the purpose for creating a fake analog signal in the first place?
 
@@ -31,7 +49,7 @@ Make a dimmer that also has a button. Click the button and the LED will blink sl
 
 &nbsp; c) Why use PWM vs resistor for dimming an LED?
 
-&nbsp; d)
+&nbsp; d) Does sensor act as input or output and why? Give a few examples.
 
 ## Glossary
 
@@ -46,6 +64,9 @@ Fill in this table either by copying this into your own markdown file or copy it
 | flushing       |             |
 | potentiometer  |             |
 | pwm            |             |
-|                |             |
-|                |             |
+| sensor         |             |
+| photosensor    |             |
+| sound sensor   |             |
+| knock sensor   |             |
+| state          |             |
 |                |             |
