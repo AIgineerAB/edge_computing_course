@@ -2,11 +2,8 @@
 
 **part 1 - sensors**
 
-TODO: slides
-TODO: video
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/.png?raw=true" alt="internal temperature sensor" width="600">
+<a href="https://youtu.be/kLk49kcX2tg" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/raspberry_pi/sensors.png?raw=true" alt="internal temperature sensor" width="600">
 </a>
 
 **part 2 - building a temperature warning system with internal temperature sensor**
